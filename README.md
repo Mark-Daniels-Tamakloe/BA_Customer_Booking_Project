@@ -40,3 +40,17 @@ BA_Customer_Booking_Project/
 ├── BA_Prediction_Notebook.ipynb      # Full notebook analysis
 ├── Presentation_Slide.pptx           # Final single-slide summary
 ├── README.md                         # Project overview
+
+
+---
+
+## Author
+
+**Mark-Daniels Tamakloe**  
+- MSc Computer Science – Washington University in St. Louis
+- MSc Mathematical Sciences – East Tennessee State University
+  
+[LinkedIn](https://www.linkedin.com/in/mark-daniels-tamakloe-934785a9)
+
+
+---
