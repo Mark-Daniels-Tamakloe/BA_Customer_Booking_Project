@@ -40,9 +40,8 @@ BA_Customer_Booking_Project/
 ├── BA_Prediction_Notebook.ipynb      # Full notebook analysis
 ├── Presentation_Slide.pptx           # Final single-slide summary
 ├── README.md                         # Project overview
-
-
 ---
+```
 
 ## Author
 
@@ -54,3 +53,5 @@ BA_Customer_Booking_Project/
 
 
 ---
+
+
