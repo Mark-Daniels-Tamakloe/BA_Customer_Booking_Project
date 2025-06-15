@@ -54,4 +54,8 @@ BA_Customer_Booking_Project/
 
 ---
 
+## 🔗 Acknowledgement
+
+This project was completed as part of the [British Airways Data Science Virtual Experience](https://www.theforage.com/simulations/british-airways/data-science-yqoz) on Forage.
+
 
